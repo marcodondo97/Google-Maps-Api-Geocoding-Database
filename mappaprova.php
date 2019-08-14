@@ -5,9 +5,6 @@ Author: Marco Dondo.
 
 Language: EN.
 
-Program: To build map 3 I used the following technologies:
-
-
 
  -->
 
