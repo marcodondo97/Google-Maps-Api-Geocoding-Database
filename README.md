@@ -26,5 +26,12 @@ The insertion and population of the map placeholders is done by querying the dat
 <h1>&#x1F53A; Warning &#x1F53A; </h1>
 This program is partially free, ie google leaves a geocoding request (conversion of address from street to character format to latitude and longitude) free of charge every 24 hours and this means that only one user per day (the first one) can have the privilege to insert his placeholder comfortably automatically otherwise he must do the manual procedure.<br>
 TO GET YOUR APIKEY YOU MUST FOLLOW THIS LINK https://developers.google.com/maps/documentation/javascript/get-api-key
-
-
+<br>
+<br>
+<h2> Insert name adress </h2>
+<img src="Screenshot/inserire_via.jpg" width="60%">
+<br>
+<h2> Google maps Api get coordinates. We complete the form </h2> 
+<img src="Screenshot/compilazione_campi.jpg" width="60%"><br>
+<h2> Informations stored in database MySql. The program let see the new mark in map. </h2>
+<img src="Screenshot/infobox.jpg" width="60%"><br>
