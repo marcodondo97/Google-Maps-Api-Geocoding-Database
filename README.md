@@ -23,7 +23,7 @@ The insertion and population of the map placeholders is done by querying the dat
  If the street turns out to be poorly written, or for other reasons, the program cannot find the way and warns the user that if he wants he can always enter the its coordinates manually following the instructions I defined.
 
  
-<h1>&#x1F53A; Warning &#x1F53A; </h1>
+<h2>&#x1F53A; Warning &#x1F53A; </h2>
 This program is partially free, ie google leaves a geocoding request (conversion of address from street to character format to latitude and longitude) free of charge every 24 hours and this means that only one user per day (the first one) can have the privilege to insert his placeholder comfortably automatically otherwise he must do the manual procedure.<br>
 TO GET YOUR APIKEY YOU MUST FOLLOW THIS LINK https://developers.google.com/maps/documentation/javascript/get-api-key
 <br>Invitation to take tests. it is necessary to create a database. I USED XAMPP V 5.5.38.
