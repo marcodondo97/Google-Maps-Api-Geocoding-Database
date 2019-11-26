@@ -1,6 +1,7 @@
 # Google-Maps-Api-Geocoding-Database
 Guidelines to create a map through the Google API with geocoding
 
+<h2> Introduction </h2>
 To build map  I used the following technologies:
 
 - Frontend: HTML5 markup and scripting languages, Javascript;
@@ -10,7 +11,7 @@ To build map  I used the following technologies:
 - Database: MySql and PHP5;
  
 
-<h2>Purpose of the program: </h2>
+<h2>Description</h2>
 
 Have the user insert their placeholder on the map by entering an alphanumeric address.
 
@@ -26,13 +27,12 @@ The insertion and population of the map placeholders is done by querying the dat
 <h2>&#x1F53A; Warning &#x1F53A; </h2>
 This program is partially free, ie google leaves a geocoding request (conversion of address from street to character format to latitude and longitude) free of charge every 24 hours and this means that only one user per day (the first one) can have the privilege to insert his placeholder comfortably automatically otherwise he must do the manual procedure.<br>
 TO GET YOUR APIKEY YOU MUST FOLLOW THIS LINK https://developers.google.com/maps/documentation/javascript/get-api-key
-<br>Invitation to take tests. it is necessary to create a database. I USED XAMPP V 5.5.38.
+<br> It is necessary to create a database. I USED XAMPP V 5.5.38.
 <br>
 <br>
-<h2> Insert name adress </h2>
+<h2> Images </h2>
 <img src="Screenshot/inserire_via.jpg" width="60%">
-<br>
-<h2> Google maps Api get coordinates. We complete the form </h2> 
-<img src="Screenshot/compilazione_campi.jpg" width="60%"><br>
-<h2> Informations stored in database MySql. The program let see the new mark in map. </h2>
-<img src="Screenshot/infobox.jpg" width="60%"><br>
+ Api get coordinates. We complete the form.  
+<img src="Screenshot/compilazione_campi.jpg" width="60%">
+ Informations stored in database MySql. The program let see the new mark in map.
+<img src="Screenshot/infobox.jpg" width="60%">
